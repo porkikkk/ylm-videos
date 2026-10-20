@@ -6,4 +6,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | Episode | Series | Title | Length | Post (UK) |
 | --- | --- | --- | --- | --- |
 | EP01 | Would You Survive? | Your car just hit the water | 84.8 s | 2026-10-20 21:00 |
-| EP02 | Would You Survive? | You just fell through the ice | 67.6 s | (pending approval) |
+| EP02 | Would You Survive? | You just fell through the ice | 67.6 s | 2026-10-20 19:00 |
