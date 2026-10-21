@@ -9,3 +9,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP02 | Would You Survive? | You just fell through the ice | 67.6 s | 2026-10-20 19:00 |
 | EP03 | True Survival | Juliane Koepcke: fell 3 km from a plane into the Amazon | 75.3 s | 2026-10-21 16:00 |
 | EP04 | Would You Survive? | You were buried alive | 69.6 s | 2026-10-21 13:00 |
+| EP05 | Hunter's Story | Locked inside a freezer | 75.2 s | (waiting for approval) |
