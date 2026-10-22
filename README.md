@@ -11,3 +11,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP04 | Would You Survive? | You were buried alive | 69.6 s | 2026-10-21 13:00 |
 | EP05 | Hunter's Story | Locked inside a freezer | 75.2 s | 2026-10-21 21:00 |
 | EP06 | True Survival | Harrison Okene: 60 hours trapped in a sunken tugboat | 89.6 s | 2026-10-22 13:00 |
+| EP07 | Would You Survive? | Stuck in an elevator | 62.4 s | 2026-10-22 21:00 |
