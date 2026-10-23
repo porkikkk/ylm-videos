@@ -13,4 +13,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP06 | True Survival | Harrison Okene: 60 hours trapped in a sunken tugboat | 89.6 s | 2026-10-22 13:00 |
 | EP07 | Would You Survive? | Stuck in an elevator | 62.4 s | 2026-10-22 21:00 |
 | EP08 | Would You Survive? | A nuclear bomb just went off near you | 70.7 s | 2026-10-23 16:00 |
-| EP09 | True Survival | Beck Weathers: left for dead on Everest (1996) | 83.1 s | (awaiting approval) |
+| EP09 | True Survival | Beck Weathers: left for dead on Everest (1996) | 83.1 s | 2026-10-23 21:00 |
