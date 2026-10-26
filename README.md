@@ -18,3 +18,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP11 | Hunter's Story | Stuck on a tower crane in a storm (Part 1/2) | 77.0 s | 2026-10-24 21:00 |
 | EP12 | Hunter's Story | Stuck on a tower crane in a storm (Part 2/2) | 79.1 s | 2026-10-25 13:00 |
 | EP13 | Would You Survive? | Blackout in the underground, between two stations | 79.6 s | 2026-10-26 21:00 |
+| EP14 | Hunter's Story | Stuck in a cable car over a canyon (Part 1/2) | 75.6 s |  |
