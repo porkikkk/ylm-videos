@@ -21,4 +21,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP14 | Hunter's Story | Stuck in a cable car over a canyon (Part 1/2) | 75.6 s | 2026-10-26 19:00 |
 | EP15 | Hunter's Story | Stuck in a cable car over a canyon (Part 2/2) | 80.0 s | 2026-10-27 19:00 |
 | EP16 | Would You Survive? | Flash flood in a multi-storey car park | 76.3 s | 2026-10-27 21:00 |
-| EP17 | True Survival | Aron Ralston: trapped by a boulder in a canyon (2003) | 77.7 s | (waiting for approval) |
+| EP17 | True Survival | Aron Ralston: trapped by a boulder in a canyon (2003) | 77.7 s | 2026-10-28 16:00 |
