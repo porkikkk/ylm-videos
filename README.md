@@ -23,4 +23,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP16 | Would You Survive? | Flash flood in a multi-storey car park | 76.3 s | 2026-10-27 21:00 |
 | EP17 | True Survival | Aron Ralston: trapped by a boulder in a canyon (2003) | 77.7 s | 2026-10-28 16:00 |
 | EP18 | Would You Survive? | Earthquake in a shopping centre | 78.5 s | 2026-10-29 16:00 |
-| EP19 | Would You Survive? | Fire on a cruise ship at night | 64.9 s | (awaiting approval) |
+| EP19 | Would You Survive? | Fire on a cruise ship at night | 64.9 s | 2026-10-29 21:00 |
