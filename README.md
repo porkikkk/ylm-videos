@@ -27,4 +27,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP20 | Would You Survive? | Fire in a motorway tunnel | 62.3 s | 2026-10-30 16:00 |
 | EP21 | Would You Survive? | Fire on the 30th floor of a skyscraper | 70.3 s | 2026-10-31 21:00 |
 | EP22 | Would You Survive? | Ferry starts listing in a storm | 72.0 s | 2026-10-31 16:00 |
-| EP23 | Would You Survive? | Ski lift stops in a blizzard | 62.9 s | (awaiting approval) |
+| EP23 | Would You Survive? | Ski lift stops in a blizzard | 62.9 s | 2026-11-01 16:00 |
