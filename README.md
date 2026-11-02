@@ -29,3 +29,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP22 | Would You Survive? | Ferry starts listing in a storm | 72.0 s | 2026-10-31 16:00 |
 | EP23 | Would You Survive? | Ski lift stops in a blizzard | 62.9 s | 2026-11-01 16:00 |
 | EP24 | Would You Survive? | Wild boar charges you in a city park | 63.0 s | 2026-11-01 21:00 |
+| EP25 | Would You Survive? | Caught in a rip current at the beach | 64.6 s | 2026-11-02 16:00 |
