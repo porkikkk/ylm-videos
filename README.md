@@ -32,3 +32,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP25 | Would You Survive? | Caught in a rip current at the beach | 64.6 s | 2026-11-02 16:00 |
 | EP26 | Would You Survive? | Crowd crush at a stadium exit gate | 66.9 s | 2026-11-02 22:00 |
 | EP27 | Would You Survive? | Blackout in a hospital at night | 62.6 s | 2026-11-03 16:00 |
+| EP28 | Would You Survive? | Ride stops upside down in a thunderstorm | 62.8 s | 2026-11-04 16:00 |
