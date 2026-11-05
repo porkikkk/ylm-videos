@@ -34,3 +34,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP27 | Would You Survive? | Blackout in a hospital at night | 62.6 s | 2026-11-03 16:00 |
 | EP28 | Would You Survive? | Ride stops upside down in a thunderstorm | 62.8 s | 2026-11-04 16:00 |
 | EP29 | Would You Survive? | House fire at 3 a.m. | 63.7 s | 2026-11-05 16:00 |
+| EP30 | Would You Survive? | Stuck in your car in a snowstorm | 64.2 s | 2026-11-05 21:00 |
