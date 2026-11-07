@@ -36,3 +36,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP29 | Would You Survive? | House fire at 3 a.m. | 63.7 s | 2026-11-05 16:00 |
 | EP30 | Would You Survive? | Stuck in your car in a snowstorm | 64.2 s | 2026-11-05 21:00 |
 | EP31 | Would You Survive? | A bear finds your tent at night | 64.5 s | 2026-11-06 21:00 |
+| EP32 | Would You Survive? | Buried by an avalanche | 64.6 s | pending approval |
