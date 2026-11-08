@@ -39,3 +39,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP32 | Would You Survive? | Buried by an avalanche | 64.6 s | 2026-11-07 16:00 |
 | EP33 | Would You Survive? | Lost in the desert with no water | 80.2 s | 2026-11-07 21:00 |
 | EP34 | Would You Survive? | Your plane is about to crash-land | 64.0 s | 2026-11-08 16:00 |
+| EP35 | Would You Survive? | Trapped in a flooding cave | 67.8 s | 2026-11-08 21:00 |
