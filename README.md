@@ -43,4 +43,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP36 | Would You Survive? | Lost at sea on a life raft | 65.1 s | (waiting for approval) |
 | EP37 | Would You Survive? | Lightning strikes while you are on an open ridge | 65.5 s | 2026-11-10 21:00 |
 | EP38 | Would You Survive? | Earthquake on the 20th floor | 62.9 s | 2026-11-11 16:00 |
-| EP39 | Would You Survive? | Tornado hits while you are in a supermarket | 64.2 s | (waiting for approval) |
+| EP39 | Would You Survive? | Tornado hits while you are in a supermarket | 64.2 s | 2026-11-11 21:00 |
