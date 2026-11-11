@@ -42,3 +42,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP35 | Would You Survive? | Trapped in a flooding cave | 67.8 s | 2026-11-08 21:00 |
 | EP36 | Would You Survive? | Lost at sea on a life raft | 65.1 s | (waiting for approval) |
 | EP37 | Would You Survive? | Lightning strikes while you are on an open ridge | 65.5 s | 2026-11-10 21:00 |
+| EP38 | Would You Survive? | Earthquake on the 20th floor | 62.9 s | (waiting for approval) |
