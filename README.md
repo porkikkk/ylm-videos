@@ -46,3 +46,4 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP39 | Would You Survive? | Tornado hits while you are in a supermarket | 64.2 s | 2026-11-11 21:00 |
 | EP40 | Would You Survive? | Toxic gas leak in a motorway tunnel | 63.5 s | (waiting for approval) |
 | EP41 | Would You Survive? | Wildfire catches you in a car on a forest road | 62.1 s | 2026-11-12 21:00 |
+| EP42 | Would You Survive? | Flash flood hits your tent at night | 64.6 s | (waiting for approval) |
