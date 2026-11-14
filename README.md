@@ -47,5 +47,5 @@ publish queue of the private kit repo `porkikkk/ylm-kit`. `tools/oracle/` = serv
 | EP40 | Would You Survive? | Toxic gas leak in a motorway tunnel | 63.5 s | (waiting for approval) |
 | EP41 | Would You Survive? | Wildfire catches you in a car on a forest road | 62.1 s | 2026-11-12 21:00 |
 | EP42 | Would You Survive? | Flash flood hits your tent at night | 64.6 s | 2026-11-13 16:00 |
-| EP43 | Hunter's Story | Trapped in a grain silo (Part 1/2) | 84.1 s | (waiting for approval) |
-| EP44 | Hunter's Story | Trapped in a grain silo (Part 2/2) | 68.8 s | (waiting for approval) |
+| EP43 | Hunter's Story | Trapped in a grain silo (Part 1/2) | 84.1 s | 2026-11-14 21:00 |
+| EP44 | Hunter's Story | Trapped in a grain silo (Part 2/2) | 68.8 s | 2026-11-14 16:00 |
